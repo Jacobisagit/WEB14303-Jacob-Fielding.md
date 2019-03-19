@@ -21,7 +21,8 @@ https://medium.com/@j.fielding/fmp-term-2-week-2-e911a1ecbd5f
 [Presentation](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/ICE%20EM%20Presentation.pdf)
 
 ## Creative output delivery folder
-[Creative output delivery folder]
+[Creative output delivery folder](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20Creative%20Output%20Delivery%20Folder%20PDF.pdf)
+
 ## Creative output delivery folder ( concept video's )
 [user App concept](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20walk%20through%20final.mp4)
 

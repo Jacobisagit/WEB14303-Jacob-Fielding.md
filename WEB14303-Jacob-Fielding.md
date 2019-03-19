@@ -16,5 +16,6 @@ https://medium.com/@j.fielding/week-5-20ec5dae4224
 [Presentation](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/ICE%20EM%20Presentation.pdf)
 
 ## Creative output delivery folder
+[Creative output delivery folder](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20Creative%20Output%20Delivery%20Folder.pdf)
 ## Updated Research Record Folder
 ## Progress Presentation

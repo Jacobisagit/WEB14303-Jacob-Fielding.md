@@ -29,5 +29,7 @@ https://medium.com/@j.fielding/fmp-term-2-week-2-e911a1ecbd5f
 [Driver App concept](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20driver%20walk%20through.mp4)
 
 ## Updated Research Record Folder
+[research record folder](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20Research%20Record%20Folder%20PDF2.zip)
+
 ## Progress Presentation
 [Progress Presentation](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Scoop%20Progress%20Presentation%20PDF.pdf)

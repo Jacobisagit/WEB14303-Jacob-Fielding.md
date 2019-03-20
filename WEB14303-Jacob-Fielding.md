@@ -14,6 +14,11 @@ https://medium.com/@j.fielding/fmp-term-2-week-1-e4a2ad45c16e
 
 https://medium.com/@j.fielding/fmp-term-2-week-2-e911a1ecbd5f
 
+https://medium.com/@j.fielding/fmp-term-2-week-3-5577ae1194cd
+
+https://medium.com/@j.fielding/fmp-term-2-week-4-3cf2f774ced0
+
+
 
 ## Old Research Record
 [Research Record ](https://github.com/Jacobisagit/WEB14303-Jacob-Fielding.md/blob/master/Research%20Record%20Folder.pdf)

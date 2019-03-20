@@ -18,6 +18,10 @@ https://medium.com/@j.fielding/fmp-term-2-week-3-5577ae1194cd
 
 https://medium.com/@j.fielding/fmp-term-2-week-4-3cf2f774ced0
 
+https://medium.com/@j.fielding/fmp-term-2-week-5-f31d2b7101e8
+
+https://medium.com/@j.fielding/fmp-term-2-week-6-4b453fd30dd6
+
 
 
 ## Old Research Record
